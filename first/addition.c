@@ -1,5 +1,4 @@
 
-//This is the new edit
 #include<stdio.h>
 
 int sum(int x, int y)
