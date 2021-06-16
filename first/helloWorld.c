@@ -12,3 +12,8 @@ void disp()
 {
 	printf("You are beautiful");
 }
+
+void hh()
+{
+	printf("Hello");
+}
